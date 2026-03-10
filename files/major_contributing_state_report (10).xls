@@ -1,0 +1,816 @@
+ <table border="2px" id="apyreport" class="table table-hover table-bordered text-center">
+      <thead>
+        <tr>
+          <th colspan="10"><p class=""><strong>Crop: <span id="selcrop">Other  Rabi pulses</span></strong></p></th>
+        </tr>
+        <tr>
+          <th rowspan="2">S.No.</th>
+          <th rowspan="2">State</th>
+                    <th rowspan="">2015 - 2016</th>
+                  <th rowspan="">2016 - 2017</th>
+                  <th rowspan="">2017 - 2018</th>
+                  <th rowspan="">2018 - 2019</th>
+                  <th rowspan="">2019 - 2020</th>
+                  <th rowspan="">2020 - 2021</th>
+                  <th rowspan="">2021 - 2022</th>
+                  <th rowspan="">2022 - 2023</th>
+                </tr>
+        <tr>
+                    <th rowspan="">Production             (Tonnes)           </th>
+                  <th rowspan="">Production             (Tonnes)           </th>
+                  <th rowspan="">Production             (Tonnes)           </th>
+                  <th rowspan="">Production             (Tonnes)           </th>
+                  <th rowspan="">Production             (Tonnes)           </th>
+                  <th rowspan="">Production             (Tonnes)           </th>
+                  <th rowspan="">Production             (Tonnes)           </th>
+                  <th rowspan="">Production             (Tonnes)           </th>
+                </tr>
+      </thead>
+      <tbody>
+                <tr>
+          <td rowspan="">1</td>
+          <td rowspan="">Maharashtra</td>
+                    <td rowspan="">
+            44,306
+          </td>
+                  <td rowspan="">
+            69,160
+          </td>
+                  <td rowspan="">
+            50,909
+          </td>
+                  <td rowspan="">
+            51,185
+          </td>
+                  <td rowspan="">
+            66,053
+          </td>
+                  <td rowspan="">
+            67,271
+          </td>
+                  <td rowspan="">
+            58,142
+          </td>
+                  <td rowspan="">
+            73,727
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">2</td>
+          <td rowspan="">Madhya Pradesh</td>
+                    <td rowspan="">
+            43,549
+          </td>
+                  <td rowspan="">
+            25,700
+          </td>
+                  <td rowspan="">
+            55,220
+          </td>
+                  <td rowspan="">
+            16,587
+          </td>
+                  <td rowspan="">
+            9,612
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">3</td>
+          <td rowspan="">Himachal Pradesh</td>
+                    <td rowspan="">
+            39,978
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            40,096
+          </td>
+                  <td rowspan="">
+            36,130
+          </td>
+                  <td rowspan="">
+            36,316
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            155
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">4</td>
+          <td rowspan="">Odisha</td>
+                    <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            37,960
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">5</td>
+          <td rowspan="">Gujarat</td>
+                    <td rowspan="">
+            17,858
+          </td>
+                  <td rowspan="">
+            19,417
+          </td>
+                  <td rowspan="">
+            18,999
+          </td>
+                  <td rowspan="">
+            16,224
+          </td>
+                  <td rowspan="">
+            26,665
+          </td>
+                  <td rowspan="">
+            37,274
+          </td>
+                  <td rowspan="">
+            34,282
+          </td>
+                  <td rowspan="">
+            33,915
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">6</td>
+          <td rowspan="">Manipur</td>
+                    <td rowspan="">
+            5,793
+          </td>
+                  <td rowspan="">
+            5,902
+          </td>
+                  <td rowspan="">
+            5,942
+          </td>
+                  <td rowspan="">
+            5,883
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            26,720
+          </td>
+                  <td rowspan="">
+            27,140
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">7</td>
+          <td rowspan="">Tamil Nadu</td>
+                    <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            6,758
+          </td>
+                  <td rowspan="">
+            16,051
+          </td>
+                  <td rowspan="">
+            14,045
+          </td>
+                  <td rowspan="">
+            10,894
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            13,574
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">8</td>
+          <td rowspan="">Jharkhand</td>
+                    <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            14,387
+          </td>
+                  <td rowspan="">
+            10,157
+          </td>
+                  <td rowspan="">
+            14,628
+          </td>
+                  <td rowspan="">
+            14,423
+          </td>
+                  <td rowspan="">
+            15,274
+          </td>
+                  <td rowspan="">
+            11,063
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">9</td>
+          <td rowspan="">Assam</td>
+                    <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            13,057
+          </td>
+                  <td rowspan="">
+            11,766
+          </td>
+                  <td rowspan="">
+            12,264
+          </td>
+                  <td rowspan="">
+            12,467
+          </td>
+                  <td rowspan="">
+            14,090
+          </td>
+                  <td rowspan="">
+            13,945
+          </td>
+                  <td rowspan="">
+            14,126
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">10</td>
+          <td rowspan="">Nagaland</td>
+                    <td rowspan="">
+            11,780
+          </td>
+                  <td rowspan="">
+            12,650
+          </td>
+                  <td rowspan="">
+            13,650
+          </td>
+                  <td rowspan="">
+            13,730
+          </td>
+                  <td rowspan="">
+            13,810
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            9,383
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">11</td>
+          <td rowspan="">Karnataka</td>
+                    <td rowspan="">
+            7,316
+          </td>
+                  <td rowspan="">
+            513
+          </td>
+                  <td rowspan="">
+            7,599
+          </td>
+                  <td rowspan="">
+            10,005
+          </td>
+                  <td rowspan="">
+            12,415
+          </td>
+                  <td rowspan="">
+            9,937
+          </td>
+                  <td rowspan="">
+            9,487
+          </td>
+                  <td rowspan="">
+            9,079
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">12</td>
+          <td rowspan="">Andhra Pradesh</td>
+                    <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            8,229
+          </td>
+                  <td rowspan="">
+            12,174
+          </td>
+                  <td rowspan="">
+            8,745
+          </td>
+                  <td rowspan="">
+            11,296
+          </td>
+                  <td rowspan="">
+            7,585
+          </td>
+                  <td rowspan="">
+            3,780
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">13</td>
+          <td rowspan="">Rajasthan</td>
+                    <td rowspan="">
+            6,169
+          </td>
+                  <td rowspan="">
+            6,293
+          </td>
+                  <td rowspan="">
+            4,937
+          </td>
+                  <td rowspan="">
+            2,088
+          </td>
+                  <td rowspan="">
+            4,874
+          </td>
+                  <td rowspan="">
+            2,925
+          </td>
+                  <td rowspan="">
+            3,770
+          </td>
+                  <td rowspan="">
+            3,277
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">14</td>
+          <td rowspan="">Goa</td>
+                    <td rowspan="">
+            5,882
+          </td>
+                  <td rowspan="">
+            5,794
+          </td>
+                  <td rowspan="">
+            4,635
+          </td>
+                  <td rowspan="">
+            6,179
+          </td>
+                  <td rowspan="">
+            3,855
+          </td>
+                  <td rowspan="">
+            3,748
+          </td>
+                  <td rowspan="">
+            3,034
+          </td>
+                  <td rowspan="">
+            3,186
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">15</td>
+          <td rowspan="">Mizoram</td>
+                    <td rowspan="">
+            2,038
+          </td>
+                  <td rowspan="">
+            1,964
+          </td>
+                  <td rowspan="">
+            1,755
+          </td>
+                  <td rowspan="">
+            2,290
+          </td>
+                  <td rowspan="">
+            2,517
+          </td>
+                  <td rowspan="">
+            2,807
+          </td>
+                  <td rowspan="">
+            2,856
+          </td>
+                  <td rowspan="">
+            2,459
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">16</td>
+          <td rowspan="">Bihar</td>
+                    <td rowspan="">
+            734
+          </td>
+                  <td rowspan="">
+            2,352
+          </td>
+                  <td rowspan="">
+            1,426
+          </td>
+                  <td rowspan="">
+            1,123
+          </td>
+                  <td rowspan="">
+            1,096
+          </td>
+                  <td rowspan="">
+            961
+          </td>
+                  <td rowspan="">
+            1,025
+          </td>
+                  <td rowspan="">
+            1,072
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">17</td>
+          <td rowspan="">Kerala</td>
+                    <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            1,131
+          </td>
+                  <td rowspan="">
+            1,070
+          </td>
+                  <td rowspan="">
+            752
+          </td>
+                  <td rowspan="">
+            947
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">18</td>
+          <td rowspan="">Tripura</td>
+                    <td rowspan="">
+            495
+          </td>
+                  <td rowspan="">
+            468
+          </td>
+                  <td rowspan="">
+            373
+          </td>
+                  <td rowspan="">
+            725
+          </td>
+                  <td rowspan="">
+            804
+          </td>
+                  <td rowspan="">
+            743
+          </td>
+                  <td rowspan="">
+            828
+          </td>
+                  <td rowspan="">
+            1,001
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">19</td>
+          <td rowspan="">Arunachal Pradesh</td>
+                    <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            765
+          </td>
+                  <td rowspan="">
+            815
+          </td>
+                  <td rowspan="">
+            815
+          </td>
+                  <td rowspan="">
+            824
+          </td>
+                  <td rowspan="">
+            844
+          </td>
+                  <td rowspan="">
+            851
+          </td>
+                  <td rowspan="">
+            858
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">20</td>
+          <td rowspan="">West Bengal</td>
+                    <td rowspan="">
+            186
+          </td>
+                  <td rowspan="">
+            194
+          </td>
+                  <td rowspan="">
+            384
+          </td>
+                  <td rowspan="">
+            525
+          </td>
+                  <td rowspan="">
+            505
+          </td>
+                  <td rowspan="">
+            718
+          </td>
+                  <td rowspan="">
+            854
+          </td>
+                  <td rowspan="">
+            818
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">21</td>
+          <td rowspan="">Chhattisgarh</td>
+                    <td rowspan="">
+            399
+          </td>
+                  <td rowspan="">
+            415
+          </td>
+                  <td rowspan="">
+            417
+          </td>
+                  <td rowspan="">
+            272
+          </td>
+                  <td rowspan="">
+            297
+          </td>
+                  <td rowspan="">
+            280
+          </td>
+                  <td rowspan="">
+            224
+          </td>
+                  <td rowspan="">
+            241
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">22</td>
+          <td rowspan="">Jammu and Kashmir</td>
+                    <td rowspan="">
+            114
+          </td>
+                  <td rowspan="">
+            297
+          </td>
+                  <td rowspan="">
+            98
+          </td>
+                  <td rowspan="">
+            170
+          </td>
+                  <td rowspan="">
+            192
+          </td>
+                  <td rowspan="">
+            113
+          </td>
+                  <td rowspan="">
+            64
+          </td>
+                  <td rowspan="">
+            33
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">23</td>
+          <td rowspan="">Puducherry</td>
+                    <td rowspan="">
+            76
+          </td>
+                  <td rowspan="">
+            42
+          </td>
+                  <td rowspan="">
+            207
+          </td>
+                  <td rowspan="">
+            62
+          </td>
+                  <td rowspan="">
+            42
+          </td>
+                  <td rowspan="">
+            47
+          </td>
+                  <td rowspan="">
+            24
+          </td>
+                  <td rowspan="">
+            240
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">24</td>
+          <td rowspan="">Dadra and Nagar Haveli</td>
+                    <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            105
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            160
+          </td>
+                  <td rowspan="">
+            160
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">25</td>
+          <td rowspan="">Ladakh</td>
+                    <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            72
+          </td>
+                  <td rowspan="">
+            72
+          </td>
+                  <td rowspan="">
+            72
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">26</td>
+          <td rowspan="">Uttarakhand</td>
+                    <td rowspan="">
+            4
+          </td>
+                  <td rowspan="">
+            15
+          </td>
+                  <td rowspan="">
+            22
+          </td>
+                  <td rowspan="">
+            3
+          </td>
+                  <td rowspan="">
+            42
+          </td>
+                  <td rowspan="">
+            21
+          </td>
+                  <td rowspan="">
+            41
+          </td>
+                  <td rowspan="">
+            21
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">27</td>
+          <td rowspan="">Telangana </td>
+                    <td rowspan="">
+            21
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">28</td>
+          <td rowspan="">Haryana</td>
+                    <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            0
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                </tr>
+      
+      </tbody>
+    </table>

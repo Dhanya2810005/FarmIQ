@@ -1,0 +1,710 @@
+ <table border="2px" id="apyreport" class="table table-hover table-bordered text-center">
+      <thead>
+        <tr>
+          <th colspan="7"><p class=""><strong>Crop: <span id="selcrop">Rice</span></strong></p></th>
+        </tr>
+        <tr>
+          <th rowspan="2">S.No.</th>
+          <th rowspan="2">State</th>
+                    <th rowspan="">2018 - 2019</th>
+                  <th rowspan="">2019 - 2020</th>
+                  <th rowspan="">2020 - 2021</th>
+                  <th rowspan="">2021 - 2022</th>
+                  <th rowspan="">2022 - 2023</th>
+                </tr>
+        <tr>
+                    <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                </tr>
+      </thead>
+      <tbody>
+                <tr>
+          <td rowspan="">1</td>
+          <td rowspan="">Goa</td>
+                    <td rowspan="">
+            2.72
+          </td>
+                  <td rowspan="">
+            2.60
+          </td>
+                  <td rowspan="">
+            2.67
+          </td>
+                  <td rowspan="">
+            2.80
+          </td>
+                  <td rowspan="">
+            10.70
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">2</td>
+          <td rowspan="">Chandigarh</td>
+                    <td rowspan="">
+            5.30
+          </td>
+                  <td rowspan="">
+            5.50
+          </td>
+                  <td rowspan="">
+            5.50
+          </td>
+                  <td rowspan="">
+            5.50
+          </td>
+                  <td rowspan="">
+            5.50
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">3</td>
+          <td rowspan="">Punjab</td>
+                    <td rowspan="">
+            4.13
+          </td>
+                  <td rowspan="">
+            4.03
+          </td>
+                  <td rowspan="">
+            4.44
+          </td>
+                  <td rowspan="">
+            4.34
+          </td>
+                  <td rowspan="">
+            4.34
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">4</td>
+          <td rowspan="">Andhra Pradesh</td>
+                    <td rowspan="">
+            3.73
+          </td>
+                  <td rowspan="">
+            3.88
+          </td>
+                  <td rowspan="">
+            3.42
+          </td>
+                  <td rowspan="">
+            3.39
+          </td>
+                  <td rowspan="">
+            3.95
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">5</td>
+          <td rowspan="">Tamil Nadu</td>
+                    <td rowspan="">
+            3.56
+          </td>
+                  <td rowspan="">
+            3.81
+          </td>
+                  <td rowspan="">
+            3.38
+          </td>
+                  <td rowspan="">
+            3.57
+          </td>
+                  <td rowspan="">
+            3.50
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">6</td>
+          <td rowspan="">Telangana </td>
+                    <td rowspan="">
+            3.45
+          </td>
+                  <td rowspan="">
+            3.70
+          </td>
+                  <td rowspan="">
+            3.45
+          </td>
+                  <td rowspan="">
+            3.40
+          </td>
+                  <td rowspan="">
+            3.47
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">7</td>
+          <td rowspan="">Haryana</td>
+                    <td rowspan="">
+            3.12
+          </td>
+                  <td rowspan="">
+            3.33
+          </td>
+                  <td rowspan="">
+            3.69
+          </td>
+                  <td rowspan="">
+            3.59
+          </td>
+                  <td rowspan="">
+            3.56
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">8</td>
+          <td rowspan="">Puducherry</td>
+                    <td rowspan="">
+            3.55
+          </td>
+                  <td rowspan="">
+            3.25
+          </td>
+                  <td rowspan="">
+            2.75
+          </td>
+                  <td rowspan="">
+            2.98
+          </td>
+                  <td rowspan="">
+            3.06
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">9</td>
+          <td rowspan="">Madhya Pradesh</td>
+                    <td rowspan="">
+            1.88
+          </td>
+                  <td rowspan="">
+            2.37
+          </td>
+                  <td rowspan="">
+            2.42
+          </td>
+                  <td rowspan="">
+            2.28
+          </td>
+                  <td rowspan="">
+            3.41
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">10</td>
+          <td rowspan="">Karnataka</td>
+                    <td rowspan="">
+            2.89
+          </td>
+                  <td rowspan="">
+            3.16
+          </td>
+                  <td rowspan="">
+            3.18
+          </td>
+                  <td rowspan="">
+            3.09
+          </td>
+                  <td rowspan="">
+            3.28
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">11</td>
+          <td rowspan="">Tripura</td>
+                    <td rowspan="">
+            2.94
+          </td>
+                  <td rowspan="">
+            3.03
+          </td>
+                  <td rowspan="">
+            3.04
+          </td>
+                  <td rowspan="">
+            3.17
+          </td>
+                  <td rowspan="">
+            3.26
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">12</td>
+          <td rowspan="">Andaman and Nicobar Islands</td>
+                    <td rowspan="">
+            2.12
+          </td>
+                  <td rowspan="">
+            3.15
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            2.11
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">13</td>
+          <td rowspan="">Kerala</td>
+                    <td rowspan="">
+            2.92
+          </td>
+                  <td rowspan="">
+            3.06
+          </td>
+                  <td rowspan="">
+            3.11
+          </td>
+                  <td rowspan="">
+            2.87
+          </td>
+                  <td rowspan="">
+            3.12
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">14</td>
+          <td rowspan="">West Bengal</td>
+                    <td rowspan="">
+            2.99
+          </td>
+                  <td rowspan="">
+            3.00
+          </td>
+                  <td rowspan="">
+            3.03
+          </td>
+                  <td rowspan="">
+            3.03
+          </td>
+                  <td rowspan="">
+            3.05
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">15</td>
+          <td rowspan="">Jharkhand</td>
+                    <td rowspan="">
+            1.90
+          </td>
+                  <td rowspan="">
+            2.66
+          </td>
+                  <td rowspan="">
+            2.93
+          </td>
+                  <td rowspan="">
+            3.04
+          </td>
+                  <td rowspan="">
+            2.39
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">16</td>
+          <td rowspan="">Delhi</td>
+                    <td rowspan="">
+            2.88
+          </td>
+                  <td rowspan="">
+            3.01
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">17</td>
+          <td rowspan="">Odisha</td>
+                    <td rowspan="">
+            2.00
+          </td>
+                  <td rowspan="">
+            2.48
+          </td>
+                  <td rowspan="">
+            2.73
+          </td>
+                  <td rowspan="">
+            2.35
+          </td>
+                  <td rowspan="">
+            2.94
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">18</td>
+          <td rowspan="">Uttar Pradesh</td>
+                    <td rowspan="">
+            2.70
+          </td>
+                  <td rowspan="">
+            2.87
+          </td>
+                  <td rowspan="">
+            2.89
+          </td>
+                  <td rowspan="">
+            2.68
+          </td>
+                  <td rowspan="">
+            2.68
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">19</td>
+          <td rowspan="">Uttarakhand</td>
+                    <td rowspan="">
+            2.42
+          </td>
+                  <td rowspan="">
+            2.63
+          </td>
+                  <td rowspan="">
+            2.82
+          </td>
+                  <td rowspan="">
+            2.80
+          </td>
+                  <td rowspan="">
+            2.55
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">20</td>
+          <td rowspan="">Meghalaya</td>
+                    <td rowspan="">
+            2.73
+          </td>
+                  <td rowspan="">
+            2.73
+          </td>
+                  <td rowspan="">
+            2.75
+          </td>
+                  <td rowspan="">
+            2.47
+          </td>
+                  <td rowspan="">
+            2.33
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">21</td>
+          <td rowspan="">Manipur</td>
+                    <td rowspan="">
+            2.58
+          </td>
+                  <td rowspan="">
+            1.88
+          </td>
+                  <td rowspan="">
+            2.75
+          </td>
+                  <td rowspan="">
+            1.89
+          </td>
+                  <td rowspan="">
+            1.25
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">22</td>
+          <td rowspan="">Rajasthan</td>
+                    <td rowspan="">
+            2.29
+          </td>
+                  <td rowspan="">
+            2.19
+          </td>
+                  <td rowspan="">
+            2.74
+          </td>
+                  <td rowspan="">
+            2.44
+          </td>
+                  <td rowspan="">
+            2.46
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">23</td>
+          <td rowspan="">Bihar</td>
+                    <td rowspan="">
+            1.95
+          </td>
+                  <td rowspan="">
+            2.24
+          </td>
+                  <td rowspan="">
+            2.45
+          </td>
+                  <td rowspan="">
+            2.50
+          </td>
+                  <td rowspan="">
+            2.68
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">24</td>
+          <td rowspan="">Nagaland</td>
+                    <td rowspan="">
+            2.49
+          </td>
+                  <td rowspan="">
+            2.51
+          </td>
+                  <td rowspan="">
+            2.52
+          </td>
+                  <td rowspan="">
+            1.85
+          </td>
+                  <td rowspan="">
+            2.63
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">25</td>
+          <td rowspan="">Assam</td>
+                    <td rowspan="">
+            2.24
+          </td>
+                  <td rowspan="">
+            2.17
+          </td>
+                  <td rowspan="">
+            2.21
+          </td>
+                  <td rowspan="">
+            1.86
+          </td>
+                  <td rowspan="">
+            2.62
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">26</td>
+          <td rowspan="">Chhattisgarh</td>
+                    <td rowspan="">
+            1.57
+          </td>
+                  <td rowspan="">
+            2.01
+          </td>
+                  <td rowspan="">
+            2.13
+          </td>
+                  <td rowspan="">
+            2.03
+          </td>
+                  <td rowspan="">
+            2.59
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">27</td>
+          <td rowspan="">Himachal Pradesh</td>
+                    <td rowspan="">
+            1.60
+          </td>
+                  <td rowspan="">
+            1.61
+          </td>
+                  <td rowspan="">
+            2.35
+          </td>
+                  <td rowspan="">
+            2.53
+          </td>
+                  <td rowspan="">
+            1.93
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">28</td>
+          <td rowspan="">Gujarat</td>
+                    <td rowspan="">
+            2.28
+          </td>
+                  <td rowspan="">
+            2.19
+          </td>
+                  <td rowspan="">
+            2.37
+          </td>
+                  <td rowspan="">
+            2.36
+          </td>
+                  <td rowspan="">
+            2.53
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">29</td>
+          <td rowspan="">Jammu and Kashmir</td>
+                    <td rowspan="">
+            2.35
+          </td>
+                  <td rowspan="">
+            2.09
+          </td>
+                  <td rowspan="">
+            2.17
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">30</td>
+          <td rowspan="">Maharashtra</td>
+                    <td rowspan="">
+            2.24
+          </td>
+                  <td rowspan="">
+            1.87
+          </td>
+                  <td rowspan="">
+            2.11
+          </td>
+                  <td rowspan="">
+            2.18
+          </td>
+                  <td rowspan="">
+            2.35
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">31</td>
+          <td rowspan="">Dadra and Nagar Haveli</td>
+                    <td rowspan="">
+            2.24
+          </td>
+                  <td rowspan="">
+            2.16
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">32</td>
+          <td rowspan="">The Dadra &amp; Nagar Haveli and Daman and Diu</td>
+                    <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            2.06
+          </td>
+                  <td rowspan="">
+            2.07
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">33</td>
+          <td rowspan="">Sikkim</td>
+                    <td rowspan="">
+            1.86
+          </td>
+                  <td rowspan="">
+            1.86
+          </td>
+                  <td rowspan="">
+            1.86
+          </td>
+                  <td rowspan="">
+            1.86
+          </td>
+                  <td rowspan="">
+            1.87
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">34</td>
+          <td rowspan="">Arunachal Pradesh</td>
+                    <td rowspan="">
+            1.80
+          </td>
+                  <td rowspan="">
+            1.83
+          </td>
+                  <td rowspan="">
+            1.85
+          </td>
+                  <td rowspan="">
+            1.85
+          </td>
+                  <td rowspan="">
+            1.85
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">35</td>
+          <td rowspan="">Mizoram</td>
+                    <td rowspan="">
+            1.69
+          </td>
+                  <td rowspan="">
+            1.71
+          </td>
+                  <td rowspan="">
+            1.76
+          </td>
+                  <td rowspan="">
+            1.74
+          </td>
+                  <td rowspan="">
+            1.73
+          </td>
+                </tr>
+              <tr>
+          <td rowspan="">36</td>
+          <td rowspan="">Daman and Diu</td>
+                    <td rowspan="">
+            1.27
+          </td>
+                  <td rowspan="">
+            1.27
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                  <td rowspan="">
+            
+          </td>
+                </tr>
+      
+      </tbody>
+    </table>
