@@ -24,9 +24,13 @@ Welcome to the AgriChain Solutions platform. This decision-engine synthesizes mi
 *Built with Streamlit, Python, and SQLite.*
 """)
 
-# Check if the database exists
+# Auto-initialize the database if it doesn't exist
 db_path = "agri_india.db"
 if not os.path.exists(db_path):
-    st.error(f"Database not found at `{db_path}`. Please run `python data_engine.py` to initialize the database.")
+    with st.spinner("🔄 Initializing database — this may take a minute on first launch..."):
+        from data_engine import setup_database
+        setup_database()
+    st.success("Database initialized successfully. All systems operational.")
+    st.rerun()
 else:
     st.success("Database connected successfully. All systems operational.")
